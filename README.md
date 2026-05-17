@@ -55,8 +55,8 @@ This is the only file you need to edit to brand the site for a new church:
 
 ```json
 {
-  "churchName": "Your Church Name",
-  "churchShortName": "YCN",
+  "churchName": "New Covenant Church, Bolton",
+  "churchShortName": "NCCBolton",
   "tagline": "Love | Grow | Share",
   "denomination": "Assembly of God",
   "city": "Your City",

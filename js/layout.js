@@ -21,7 +21,7 @@ function initLayout(activePage) {
         '<div class="nav-inner">',
         '<a href="index.html" class="nav-logo">',
         '<img src="logo 2.png" alt="Church Logo">',
-        '<span id="cfg-nav-name">Your Church Name</span>',
+        '<span id="cfg-nav-name">NCC Bolton</span>',
         '</a>',
         '<ul class="nav-links">',
         navLink('home', '#about', 'About'),
@@ -89,7 +89,7 @@ function initLayout(activePage) {
         '</div>',
         '</div>',
         '<div class="footer-bottom">',
-        '<p>&copy; <span id="cfg-copy-year">2026</span> <span id="cfg-copy-name">Your Church Name</span>. All rights reserved.</p>',
+        '<p>&copy; <span id="cfg-copy-year">2026</span> <span id="cfg-copy-name">NCC Bolton</span>. All rights reserved.</p>',
         '<a href="admin.html">Staff Login</a>',
         '</div>',
         '</footer>'
