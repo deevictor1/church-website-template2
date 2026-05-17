@@ -1,11 +1,12 @@
 [
   {
     "id": 1,
-    "title": "Your Sermon Title Here",
-    "series": "Your Series Name",
+    "title": "Latest Message",
+    "series": "",
     "speaker": "Pastor",
-    "date": "2026-04-13",
-    "youtubeId": "",
-    "description": "Add your sermon description here. Update this from the Sermons tab in the admin panel."
+    "date": "",
+    "youtubeId": "bjJA2no92Bo",
+    "youtubeStart": 4226,
+    "description": "Watch our latest sermon from New Covenant Church, Bolton."
   }
 ]

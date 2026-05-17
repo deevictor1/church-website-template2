@@ -1,40 +1,40 @@
 {
-    "churchName": "Your Church Name",
-    "churchShortName": "YCN",
-    "tagline": "Love | Grow | Share",
-    "denomination": "Assembly of God",
-    "city": "Your City",
-    "state": "MO",
-    "address": "123 Main Street",
-    "addressLine2": "Your City, MO 00000",
-    "phone": "(000) 000-0000",
-    "email": "info@youremail.com",
-    "website": "https://yoursite.netlify.app",
+    "churchName": "New Covenant Church, Bolton",
+    "churchShortName": "NCC, Bolton",
+    "tagline": "A city set on a hill",
+    "denomination": "New Covenant Church",
+    "city": "Bolton",
+    "state": "Greater Manchester",
+    "address": "1 Brownlow Way, Longfield Road, Bolton",
+    "addressLine2": "Bolton, Greater Manchester",
+    "phone": "+44 7731 838371",
+    "email": "nccbolton@yahoo.com",
+    "website": "https://nccbolton.com",
     "services": [
           {
                   "day": "Sunday",
                   "name": "Sunday Morning Worship",
-                  "time": "10:30 AM",
+                  "time": "11:00 AM",
                   "description": "Uplifting worship, biblical teaching, and children's ministry for all ages."
           },
           {
                   "day": "Wednesday",
-                  "name": "Wednesday Night Family Night",
-                  "time": "7:00 PM",
-                  "description": "In-depth Bible study, prayer, and fellowship. Youth and children's programs available."
+                  "name": "Wednesday Night Prayer Meeting",
+                  "time": "8:00 PM",
+                  "description": "Prayer, Bible study, and fellowship."
           }
     ],
     "social": {
-          "facebook": "https://facebook.com/yourpage",
-          "instagram": "https://instagram.com/yourpage",
-          "youtube": "https://youtube.com/@yourchannel"
+          "facebook": "https://www.facebook.com/NewCovenantChurch.BOLTON",
+          "instagram": "https://www.instagram.com/nccbolton/",
+          "youtube": "https://www.youtube.com/@NewCovenantChurchBolton"
     },
     "giving": {
           "url": "https://tithe.ly/give",
           "label": "Give Online"
     },
     "maps": {
-          "embedUrl": "PASTE_YOUR_FULL_GOOGLE_MAPS_EMBED_URL_HERE"
+          "embedUrl": ""
     },
     "formspree": {
           "formId": "YOUR_FORMSPREE_FORM_ID"

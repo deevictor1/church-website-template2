@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sermons</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@400;500;600;700&family=Sora:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="css/site.css">
+</head>
+<body data-page="sermons">
+    <div id="site-header"></div>
+
+    <header class="page-header">
+        <p class="page-breadcrumb"><a href="index.html">Home</a> / Sermons</p>
+        <h1>Sermons</h1>
+        <p>Watch our latest message and grow in faith through biblical teaching.</p>
+    </header>
+
+    <section class="navy-bg">
+        <div class="section-inner">
+            <div class="sermons-layout">
+                <div class="sermon-embed fade-in-left" id="sermon-embed-container">
+                    <div class="sermon-embed-placeholder">
+                        <i class="fa-brands fa-youtube"></i>
+                        <p>Sermon video will appear here</p>
+                    </div>
+                </div>
+                <div class="sermon-info fade-in-right" id="sermon-info-container">
+                    <div class="section-label light">Latest Message</div>
+                    <div class="sermon-series" id="sermon-series">Current Series</div>
+                    <h2 class="section-title light" id="sermon-title" style="font-size:2rem;">Latest Sermon</h2>
+                    <div class="sermon-speaker">
+                        <div class="speaker-avatar"><i class="fa-solid fa-user"></i></div>
+                        <div class="speaker-info">
+                            <div class="speaker-name" id="sermon-speaker">Pastor</div>
+                            <div class="speaker-role">Lead Pastor</div>
+                        </div>
+                    </div>
+                    <div class="sermon-date" id="sermon-date"></div>
+                    <p class="sermon-desc" id="sermon-desc">Watch our latest message.</p>
+                    <div style="display:flex;gap:12px;flex-wrap:wrap;">
+                        <a id="cfg-yt-link" href="https://www.youtube.com/@nccbolton7913" target="_blank" rel="noopener noreferrer" class="btn btn-primary"><i class="fa-brands fa-youtube"></i> Watch More</a>
+                        <a href="contact.html" class="btn btn-secondary">Connect With Us</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div id="site-footer"></div>
+
+    <script src="js/layout.js"></script>
+    <script src="js/sermons.js"></script>
+    <script src="js/site.js"></script>
+</body>
+</html>
